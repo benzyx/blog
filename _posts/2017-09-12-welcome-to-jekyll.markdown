@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2017-09-12 13:44:40 -0400
-categories: intro ben
+categories: intro
 ---
 
 Hey guys!
