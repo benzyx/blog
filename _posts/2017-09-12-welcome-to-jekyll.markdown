@@ -14,5 +14,3 @@ Regardless, thanks for visiting, and I hope to write up some content soon.
 Expect to see some technical content, but probably mostly musings and experiences.
 
 This site is generated with jekyll, hosted by Github Pages.
-
-- Ben
