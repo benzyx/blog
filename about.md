@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
+
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ben (Yi Xiao) Zhang, 3rd year student at the University of Waterloo.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Codes in his spare time.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Eats a lot of expensive food.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Raised in Toronto, lives in Waterloo, frequents San Francisco and the Bay Area.
