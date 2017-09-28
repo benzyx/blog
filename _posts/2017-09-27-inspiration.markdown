@@ -9,7 +9,7 @@ It's been a week since I've started this blog, and I haven't made a single post 
 
 So what have I been doing?
 
-Before writing anything, I wanted to make sure I was doing it right. So I went around and asked a lot of my friends what I should write about, and received some scattered feedback. One said that I should be consistent, maybe stick to writing a technical blog. One said that I should be artistic, and expose a more personal side of me. One friend stressed that I should be original - no point in reiterating what other people have already said. When I told my girlfriend (Joanna, you'll probably hear more about her soon) about my intentions to write "A Comprehensive Guide to Kinkaku Izakaya", she said that I'm dumb and that I should just give up blogging.
+Before writing anything, I wanted to make sure I was doing it right. So I went around and asked a few of my friends what I should write about, and received some scattered feedback. One said that I should be consistent, maybe stick to writing a technical blog. One said that I should be artistic, and expose a more personal side of me. One friend stressed that I should be original - no point in reiterating what other people have already said. When I told my girlfriend (Joanna, you'll probably hear more about her soon) about my intentions to write "A Comprehensive Guide to Kinkaku Izakaya", she said that I'm dumb and that I should just give up blogging.
 
 I considered all the advice I've received. And then I waited.
 
