@@ -21,7 +21,7 @@ Then, I waited the next week.
 
 I was waiting for inspiration to come find me, you see. 
 
-Blogs should have an identity. I thought about Bai Li's blog (luckytoilet.wordpress.com) - one of the only blogs I actually follow. It was a technical blog, but it was also full of personality. Recently, he wrote about linguistics, but in the context of his travels through Asia. He also wrote about the details of his personal projects, such as an AI that can write sheet music. It's an amazing blog, and it became the benchmark to what I was comparing my blog (or rather, the idea of my blog) to.
+Blogs should have an identity. I thought about Bai Li's blog (luckytoilet.wordpress.com) - one of the only blogs I actually follow. It's a technical blog, but it's also full of personality. Recently, he wrote about linguistics, but in the context of his travels through Asia. He also wrote about the details of his personal projects, such as an AI that can write sheet music. It's an amazing blog, and it became the benchmark to what I was comparing my blog (or rather, the idea of my blog) to.
 
 In the back of my mind, I was doubting myself. What if people think my writing sucks? What if I have nothing original to offer? What if nobody wants to read what I have to say - or worse, they read it just to see how dumb my writing is?
 
