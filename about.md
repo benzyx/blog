@@ -5,10 +5,10 @@ title: About Me
 permalink: /about/
 ---
 
-Ben (Yi Xiao) Zhang, 3rd year student at the University of Waterloo.
+Ben Zhang, 3rd year student at the University of Waterloo.
 
-Codes in his spare time.
+Fumbling his way through life.
 
-Eats a lot of expensive food.
+Raised in Toronto, living in Waterloo, frequents San Francisco and the Bay Area.
 
-Raised in Toronto, lives in Waterloo, frequents San Francisco and the Bay Area.
+

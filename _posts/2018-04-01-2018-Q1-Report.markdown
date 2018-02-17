@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Ben's 2018 Q1 Report"
+date:   2018-04-08 13:44:40 -0400
+categories: me
+---
+
+At the end of 2017, I wasn't happy with myself. Arriving home after my 3A term at the University of Waterloo, I dug up my old notebooks from 2010, written over the summer between Grade 7 and 8. The two notebooks meticulously covered all 13 chapters of Algebra and Trigonometry (4th Edition), a textbook which I no longer have a hard copy of today. For two months, I would wake up, read chapters of the book, do the exercise problems for each chapter, take notes, and sleep. It was a very painful experience, but my hard work was incredibly rewarding. The understanding I gained from this experience carried me throughout high school.
+
+Since 2011, I have never read an entire textbook front to back. In fact, I've rarely even read any books since then, unless it was required for class. The nature of software engineering and class assignments makes it rewarding to extract only the necessary information from texts sufficient to complete the tasks, and I became very good at this. But I was missing out on gaining the comprehensive understanding that came from reading the full text. As such, I felt like my learning, especially from some courses in university, was incomplete.
+
+Thus, I felt like I was underachieving. Furthermore, I was getting unhappy with my body, and felt like an incompetent software engineer. So, in January, I made a list of things I wanted to accomplish in 2018.
+
+### The List 
+
+1. Read 12 books, 1 for each month.
+2. Read "The Elements of Statistical Learning", cover to cover, while taking notes of the same quality as my notes from Grade 7.
+3. Drop my bodyweight under 170lbs, and drop my body fat percentage to around 15%.
+4. Reach 1 dan on KGS, my preferred online server for the board game, Go.
+5. Learn these three languages with journeyman proficiency: Rust, Haskell, Python.
+6. Blog more.
+
+Since then, after finding the [DMOJ Slack Channel](https://dmoj.ca) in February, I decided to add an extra goal.
+
+7. Reach 2200 rating on [Codeforces](https://codeforces.com).
+
+### Q1 Progress
+
+#### Read 12 books, 1 for each month.
+
+So, I cheated a little bit. After reading my first book as a hard copy, I purchased an Audible subscription, on the advice of Jason Liu. This made it easy for me to make progress on books while on the public transit.
+
+The books that I have completed so far are: 
+
+- The Pragmatic Programmer, Andy Hunt and Dave Thomas
+- Zero to One, Peter Thiel
+- Flash Boys, Michael Lewis
+- Misbehaving, Richard Thaler
+- Thinking Fast and Slow, Daniel Kahneman
+- The Gene, Siddhartha Mukherjee
+
+Currently working on: Enlightenment Now, Steven Pinker.
+
+I am very impressed by how much of the content I can retain from Audible. I constantly think about the books I listen to, especially when walking home on the streets of Chicago. In particular, Misbehaving was incredibly illuminating to me, exposing the suboptimal decisions I make. Now, I often catch myself making decisions that an ECON would disagree with.
+
+This task is going a lot faster than I had expected, thanks to Audible. I might revise my goal to 20 books by the end of the year. I also want to write blog posts about books I've read, but I've been lazy.  
+
+#### Read "The Elements of Statistical Learning", and take notes.
+
+This book is allegedly the bible of machine learning. In the same way that Algebra and Trigonometry set me up for success in grade 7, I wanted this to set up my success for years to come. 
+
+The task has proven more challenging than anticipated, by Far.
+
+Maybe it's because my foundation in middle school math was a lot stronger than my foundation in Statistics, but I had a lot of trouble digesting this book. Chapter 2, a chapter that overviews the entire book's content, took me a month. Chapter 3, Linear Regression, really surprised me in the depth. I've skipped ahead to read snippets of future chapters, and this is not productive to my initial goal. To be fair to myself, I don't nearly have the amount of free time that I do in the summer of middle school, so I can't expect to make that type of progress. Despite this, I haven't been keeping pace and I certainly could be doing better. I might need to consider revising the objective.
+
+#### Drop my bodyweight under 170 lbs, body fat percentage to be around 15%.
+
+Believe it or not, I am deceptively heavy. At the end of 2017, I weighed in at 192 pounds. I hide it quite well, as most of my fat is in my stomach and legs, but it was definitely starting to become visible through clothing. So, I started eating heathier, started a food instagram to track everything I eat, and went to the gym on average 3 times a week since 2018. Of course, I don't enforce strict dietary restrictions, but on average I definitely eat less, and stay under my daily calorie goal while hitting my protein goals. Since reading Misbehaving, which featured content from Thaler's other book, Nudge, I've gained a new perspective on healthy eating. I no longer trust my mind to act rationally in hunger, and I constantly put myself in situations where it is difficult to eat excessively. I also constantly put myself in situations where it's easy to go to the gym, by preparing all my gym clothes in the bag I take to work, and scheduling events at work late into the night to use the gym while I wait.
+
+As of April, I am happy to report that I am currently 177lbs, and made a lot of progress on my lifting. My squat and bench are both up around 40 lbs. I can now fit into my old pants again, down 2 sizes. I certainly could be more stringent on my diet, but I think there's a need (and some room) for these simple pleasures. Things are looking good, and I look forward to improving further.
+
+#### Reach 1 dan on KGS 
+
+Over the last year and a half, I've watched my roommate start from not knowing the rules, to becoming 2 dan on KGS. It's a bit embarassing that I now get completely destroyed by someone who started so recently. My parents tell me that I was close to 1 dan during my year in China, back in 2006, and so I would like be better than my 3rd grade self. After playing for a bit in university, I now doubt my parents claims about how good I was at age 10. Maybe they just wanted to hype me up to motivate me.
+
+I am currently 3 kyu on KGS. I haven't played much so far, but I plan on going to the Chicago Go Club meetings next week (despite never having gone to one in the 13 weeks I've been here). In May, I'll move to Seattle, and I look forward to meeting Nick Sibicky at their Go Club.
+
+#### Learn Rust, Haskell, Python
+
+Haskell: I read over most of the content in "Learn You A Haskell". I have a theoretical understanding of things, but I haven't coded anything outside of easy DMOJ problems. Input and Output is actually incredibly confusing with Haskell, so I plan on moving away from competitive programming problems in Haskell.
+
+Rust: I submitted bots to Halite 2, an AI programming challenge, in Rust. Since then, I've read a few chapters in "The Rust Programming Language". I've also started a personal learning project in Rust. Progress is slow, as work is keeping me busy.
+
+Python: Haven't made any progress here. Used it for work, so I am more familiar than before. Still, I could use some experience with the immense world of Python libraries.
+
+Overall, I would say I've made very little progress on this. This goal seems very rewarding, so a priority for Q2 is making progress on Rust.
+
+#### Blog more.
+
+I've written 3 or 4 blog posts this year that I just couldn't bring myself to publish. Sometimes I feel like the topics are too personal, or too revealing, and there wasn't enough benefit to exposing such personal thoughts. On the other hand, without these personal experiences, there isn't substance to the posts. 
+
+So, I'm currently settled on posting non-opinionated and non-personal pieces, such as Book Reviews and Math Games. Many of them are drafted, but it's hard to feel satisfied with their quality. I revised the Zero To One blog post 2 times, and couldn't settle on a version that I approved of.
+
+#### Reach 2200 on Codeforces
+
+I stumbled upon the DMOJ Slack Channel a few months ago. To my surprise, it's an extremely active community, and it motivated me to accomplish a long time goal of mine. My previous highest rating on CF was slightly over 2100, and I have definitely regressed since then. 2200 used to be my goal back then, since users above 2200 were "Grandmaster", and had a Red username. The requirements for Grandmaster have been moved to 2400 since then, but I am still aiming for the same goal, for now.
+
+My motivation is waning in the last few weeks, but I did make some progress. I am back in Div 1, hovering slightly under 2000 rating. Unless I actively solve practice problems outside of contests, I doubt I could improve past 2100. Maybe it's time to start using dmoj.ca.
+
+### Conclusions
+
+I am ahead of pace for many of the tasks, such as my fitness goals and my reading goals. For the other 5 tasks, I am behind pace. Specifically, my progress on "Elements of Statistical Learning" is worrying. I hope to be done chapter 7 by the end of Q2. Blogging more is my 2nd greatest failure. I am slightly remedying this by making this post, but I think most of the challenge is overcoming my fear of making my words and thoughts public.
+
+Finally, I'm not terribly invested in whether or not I hit my goals. Instead, I'm happy that I'm actively working towards each one. I'm very surprised by how little stress I feel about these goals, despite actively thinking about them. Certainly, there's more I could be doing to ensure I really do complete each task, but I'm in a better mental state now than at the beginning of the year. Keeping a healthy mental state is probably the most important task to me, even if it's not on the list explicitly.
