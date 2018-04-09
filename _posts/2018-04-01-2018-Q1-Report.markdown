@@ -26,7 +26,7 @@ Since then, after finding the [DMOJ Slack Channel](https://dmoj.ca) in February,
 
 ### Q1 Progress
 
-#### Read 12 books, 1 for each month.
+#### Read 12 books, 1 for each month
 
 So, I cheated a little bit. After reading my first book as a hard copy, I purchased an Audible subscription, on the advice of Jason Liu. This made it easy for me to make progress on books while on the public transit.
 
@@ -45,7 +45,7 @@ I am very impressed by how much of the content I can retain from Audible. I cons
 
 This task is going a lot faster than I had expected, thanks to Audible. I might revise my goal to 20 books by the end of the year. I also want to write blog posts about books I've read, but I've been lazy.  
 
-#### Read "The Elements of Statistical Learning", and take notes.
+#### Read "The Elements of Statistical Learning", and take notes
 
 This book is allegedly the bible of machine learning. In the same way that Algebra and Trigonometry set me up for success in grade 7, I wanted this to set up my success for years to come. 
 
@@ -53,7 +53,7 @@ The task has proven more challenging than anticipated, by Far.
 
 Maybe it's because my foundation in middle school math was a lot stronger than my foundation in Statistics, but I had a lot of trouble digesting this book. Chapter 2, a chapter that overviews the entire book's content, took me a month. Chapter 3, Linear Regression, really surprised me in the depth. I've skipped ahead to read snippets of future chapters, and this is not productive to my initial goal. To be fair to myself, I don't nearly have the amount of free time that I do in the summer of middle school, so I can't expect to make that type of progress. Despite this, I haven't been keeping pace and I certainly could be doing better. I might need to consider revising the objective.
 
-#### Drop my bodyweight under 170 lbs, body fat percentage to be around 15%.
+#### Drop my bodyweight under 170 lbs, body fat percentage to be around 15%
 
 Believe it or not, I am deceptively heavy. At the end of 2017, I weighed in at 192 pounds. I hide it quite well, as most of my fat is in my stomach and legs, but it was definitely starting to become visible through clothing. So, I started eating heathier, started a food instagram to track everything I eat, and went to the gym on average 3 times a week since 2018. Of course, I don't enforce strict dietary restrictions, but on average I definitely eat less, and stay under my daily calorie goal while hitting my protein goals. Since reading Misbehaving, which featured content from Thaler's other book, Nudge, I've gained a new perspective on healthy eating. I no longer trust my mind to act rationally in hunger, and I constantly put myself in situations where it is difficult to eat excessively. I also constantly put myself in situations where it's easy to go to the gym, by preparing all my gym clothes in the bag I take to work, and scheduling events at work late into the night to use the gym while I wait.
 
