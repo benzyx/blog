@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Socks"
+date:   2018-08-01 00:00:00 -0700
+categories: hacks
+---
+
+Never buy distinct pairs of socks. 
+
+Always buy homogenous socks. No two pairs should be different. If possible, even the left sock and right sock should not be distinguisable from each other.
+
+Recently, I bought a pack of 10-15 pairs of socks, with different patterns, graphics, and sizes. I added them happily to my collection of 10 pairs of black/grey/white generic socks.
+
+Then, I did laundry.
+
+I realized that, in the process of organizing and folding the clothes, matching pairs of socks is the only problem which scales quadratically in the number of items, when the socks are distinct, whereas the processing of every other item is linear. In my case, N = 25, the consequences were felt.
+
+It took me 10 extra minutes to match the socks up on this laundry cycle.
+
+Is it worth it to have patterns on my socks? Not for me.
+
+PS. Dumping all the socks, unorganized, into the sock drawer does not reduce the complexity. It merely delays it.
+
+PPS. For the pedantic, the cost of finding the matching sock of a given sock does not necessary have to be linear. However, I would argue that any human hand-eye-brain coordination implementation of a more complex algorithm, eg. a hash table, would take more time than linear scanning, in practice. It would also likely take O(N) additional space.
